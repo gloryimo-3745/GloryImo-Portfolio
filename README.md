@@ -4,7 +4,7 @@ A responsive personal portfolio for Glory Imo, a Computer Technology senior at B
 
 ## Live website
 
-[View the portfolio on GitHub Pages](https://gloryimo-3745.github.io/glory-imo-portfolio/)
+[View the portfolio on GitHub Pages](https://gloryimo-3745.github.io/GloryImo-Portfolio/)
 
 ## Features
 
@@ -45,7 +45,7 @@ Suggested questions and a fallback response are included to keep the conversatio
 ## Repository structure
 
 ```text
-glory-imo-portfolio/
+GloryImo-Portfolio/
 ├── index.html
 ├── styles.css
 ├── app.js
